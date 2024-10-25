@@ -1,0 +1,5 @@
+hi, this is Kangan.
+I tried to fork your project 
+-> cloned it into my github 
+-> made changes to your project
+-> made a pull req
