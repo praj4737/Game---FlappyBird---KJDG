@@ -1,0 +1,5 @@
+This is a flappy bird game creted for KJDG and this is the first assignment given by my lead Pranav Raj
+
+the assignment is about raise a pull request
+Name:M PAVAN KUMAR
+Roll no:24BCAD29
